@@ -1,0 +1,88 @@
+.attribution { font-size: 11px; text-align: center; }
+
+.attribution a { color: hsl(228, 45%, 44%); }
+
+.main-div{
+    /* max-width: 600px; */
+}
+
+p{
+    font-size: 15px;
+    color: hsl(236, 13%, 42%);
+}
+
+.main-text{
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.readButton{
+    background: hsl(5, 85%, 63%);
+    text-transform: uppercase;
+}
+
+.readButton :hover{
+}
+
+.sidebar-header{
+    color: hsl(35, 77%, 62%);
+
+}
+
+.sidebar {
+    background: hsl(240, 100%, 5%);
+    font-weight: 400;
+}
+
+.sidebar a {
+    font-size: 18px;
+    font-weight: 700;
+    text-decoration: none;
+    color: white
+}
+
+.sidebar a:hover {
+    color: hsl(35, 77%, 62%);
+}
+
+.sidebar p{
+    color: hsl(233, 8%, 79%);
+    /* max-width: 300px; */
+}
+
+.nav-item {
+    font-weight: 700;
+}
+
+.nav-item a:hover {
+    color: hsl(35, 77%, 62%);
+}
+
+h1{
+    font-weight: 800;
+}
+
+.box-item {
+    max-width: 400px;
+}
+
+.box-item img {
+    max-width: 100px;
+}
+
+.box-item a{
+    font-size: 15px;
+    font-weight: 800;
+    text-decoration: none;
+    color: black;
+}
+
+.box-item a:hover{
+    color: hsl(35, 77%, 62%);
+}
+
+
+.box-item h3{
+    color: hsl(233, 8%, 79%);
+
+}
